@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.8a2c3fe5.css",
+    "main.css": "/static/css/main.31e517d1.css",
     "main.js": "/static/js/main.dcafafa2.js",
     "static/js/787.07213007.chunk.js": "/static/js/787.07213007.chunk.js",
     "static/media/deskday.png": "/static/media/deskday.e09cd8226c019479f199.png",
     "index.html": "/index.html",
-    "main.8a2c3fe5.css.map": "/static/css/main.8a2c3fe5.css.map",
+    "main.31e517d1.css.map": "/static/css/main.31e517d1.css.map",
     "main.dcafafa2.js.map": "/static/js/main.dcafafa2.js.map",
     "787.07213007.chunk.js.map": "/static/js/787.07213007.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8a2c3fe5.css",
+    "static/css/main.31e517d1.css",
     "static/js/main.dcafafa2.js"
   ]
 }
